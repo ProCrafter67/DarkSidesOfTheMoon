@@ -3,5 +3,5 @@ x86
 .vs
 */*.*.user
 */*.*.filters
-build
+.Binaries
 out
